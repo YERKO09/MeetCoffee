@@ -1,0 +1,28 @@
+.simposio-veganDB{
+    padding: 4em 16.6em;
+    margin: 0;
+}
+
+.simposio-veganDB h2{
+    padding: 3em 0 1.8em 0;
+    font-weight: bolder;
+    text-align: left;
+}
+
+img{
+    width: 100%;
+    border-radius: 5px;
+}
+
+.simposio-veganDB h3{
+    padding: 1.5em 0 1em;
+    font-weight: bolder;
+    text-align: left;
+}
+
+.simposio-veganDB p{
+    font-family:sans-serif;
+    text-align: left;
+    font-size: 25px;
+    padding-top: 1em;
+}
